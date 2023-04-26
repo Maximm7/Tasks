@@ -6,7 +6,8 @@ let employees = [
     {name: 'John', age: 23},
     {name: 'Alex', age: 25},
     {name: 'Alice',age: 21}
-//     sdgsdg
 ]
 
 console.log(info(employees))
+
+
