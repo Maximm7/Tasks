@@ -3,6 +3,7 @@ function sumNum(array){
     for (let i = 0; i<arr.length; i++){
         sum += array[i]
     }
+
     sum = sum / array.length
     return sum.toFixed(2)
 }
